@@ -1,0 +1,10 @@
+name: SuperVanish-Addons
+version: '1.0-BETA'
+main: ge.burnednodes.superVanishAddons.SuperVanishAddons
+api-version: '1.21'
+authors: [ _YabanaA_ ]
+description: This plugin adds customisations to SuperVanish plugin
+depend: [SuperVanish]
+commands:
+  vanishfx:
+    description: "Customize your vanish/appear FX!"
